@@ -37,15 +37,20 @@ Admin can navigate to admin dashboard.
 5.Super admin and admin can make their desired actions based on their needs.
 
 ## Installation
-1.Clone the repository:git clone:https://github.com/Harinikristipati/Student-Performance-Tracker
+1.Clone the repository:git clone:https://github.com/Harinikristipati/StudentPerformanceTracker-Edutrack
+
 2.Install the required dependencies. 
+
 3.Ensure you have Python and pip installed.
 
 Dependencies include
 
 Flask
+
 sqlite3
+
 csv
+
 pandas
 Matplotlib
 Numpy
@@ -55,11 +60,17 @@ dabl
 
 ## Team Members
 Harini K(Team Leader)
+
 Chandana N
+
 Kavya G
+
 Udaya sri P
+
 Sucharitha B
+
 Ramanjaneya Reddy
+
 Ghouse Peer Khadri S
 
 
