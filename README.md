@@ -8,7 +8,7 @@ Student performance tracker is a project which is developed for students to mana
 Student performance tracker consist of 3 roles:
 
 
-1.Student:They have their student dashboard by this they can view their test results,attendence,reports, performance&suggestions.
+1.Student: They have their student dashboard by this they can view their test results,attendence,reports, performance&suggestions.
 
 2.Admin:Admin can have access about what are test conducted and their results,they can able to add new records etc.
 The admin provided with the detailed report of all the tests conducted. Admin can able to sort them and track the performance based on the topics, departments, classes and even individuals.
