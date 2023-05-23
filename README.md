@@ -52,10 +52,15 @@ sqlite3
 csv
 
 pandas
+
 Matplotlib
+
 Numpy
+
 Seaborn
+
 Plotly
+
 dabl
 
 ## Team Members
