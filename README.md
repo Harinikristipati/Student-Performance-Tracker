@@ -30,10 +30,14 @@ Super admin have access to control all institutes under  them.
 
 ## Usage:
 1.Run the Flask application
+
 2.Access student dashboard  by opening http://localhost:2000 in your web browser.
+
 3.Login to the student dashboard using credentials,if new user then register using registration process.
+
 4.Student can access their test result,attendence,suggestions,reports in dashboard.
 Admin can navigate to admin dashboard.
+
 5.Super admin and admin can make their desired actions based on their needs.
 
 ## Installation
@@ -77,5 +81,14 @@ Sucharitha B
 Ramanjaneya Reddy
 
 Ghouse Peer Khadri S
+
+## Acknowledgements
+We would like to express our gratitude and appreciation to the following individuals and organizations for their valuable contributions and support throughout the development of the StudentPerformanceTracker Project
+
+We would like to acknowledge the support and resources provided by RGMCET that have been hepls in the successful completion of this project.
+We would like to thank BYTS INDIA and RGMCET for their guidance and organizing the hackathon and providing the opportunity to work on this project.
+
+
+
 
 
